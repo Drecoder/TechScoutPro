@@ -1,0 +1,23 @@
+{
+  "name": "techscoutpro",
+  "version": "1.0.0",
+  "description": "TechScout Pro is a powerful tool designed to streamline and enhance the dual pipeline management for tech recruiters. This application serves as a centralized hub for efficiently handling two crucial aspects of recruitment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drecoder/TechScoutPro.git"
+  },
+  "keywords": [
+    "dual",
+    "pipeline"
+  ],
+  "author": "Andres Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drecoder/TechScoutPro/issues"
+  },
+  "homepage": "https://github.com/Drecoder/TechScoutPro#readme"
+}

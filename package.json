@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/Drecoder/TechScoutPro/issues"
   },
-  "homepage": "https://github.com/Drecoder/TechScoutPro#readme"
+  "homepage": "https://github.com/Drecoder/TechScoutPro#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
 }
